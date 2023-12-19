@@ -1,4 +1,4 @@
-Email Validator
+**Email Validator**
 
 The problem we are hoping to solve is users signing up for company services while using spam/fake emails. 
 The stakeholders for this project are company executives who rely on the service to generate revenue for 
